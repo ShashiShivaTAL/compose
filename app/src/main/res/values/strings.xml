@@ -4,4 +4,9 @@
     <string name="title_activity_list_compose">ListComposeActivity</string>
     <string name="title_activity_constraint_layout">ConstraintLayoutActivity</string>
     <string name="title_activity_effect_handlers_theme">EffectHandlersThemeActivity</string>
+    <string name="title_activity_effect_handlers">EffectHandlersActivity</string>
+    <string name="title_activity_progress_bar">ProgressBarActivity</string>
+    <string name="title_activity_circular_progress_bar_canvas">CircularProgressBarCanvasActivity
+    </string>
+    <string name="title_activity_draggable_music_knob">DraggableMusicKnobActivity</string>
 </resources>
