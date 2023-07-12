@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">compose</string>
+    <string name="title_activity_text_button_snackbar">TextButtonSnackbarActivity</string>
+    <string name="title_activity_list_compose">ListComposeActivity</string>
+    <string name="title_activity_constraint_layout">ConstraintLayoutActivity</string>
+    <string name="title_activity_effect_handlers_theme">EffectHandlersThemeActivity</string>
+</resources>
