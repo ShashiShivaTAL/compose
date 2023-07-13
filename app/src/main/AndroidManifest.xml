@@ -13,6 +13,17 @@
         android:theme="@style/Theme.Compose"
         tools:targetApi="31">
         <activity
+            android:name=".TimerComposeActivity"
+            android:exported="true"
+            android:label="@string/title_activity_timer_compose"
+            android:theme="@style/Theme.Compose">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".DraggableMusicKnobActivity"
             android:exported="true"
             android:label="@string/title_activity_draggable_music_knob"
@@ -27,8 +38,7 @@
             android:name=".CircularProgressBarCanvasActivity"
             android:exported="true"
             android:label="@string/title_activity_circular_progress_bar_canvas"
-            android:theme="@style/Theme.Compose">
-        </activity>
+            android:theme="@style/Theme.Compose" />
         <activity
             android:name=".ProgressBarActivity"
             android:exported="true"
