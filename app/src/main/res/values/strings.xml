@@ -11,4 +11,5 @@
     <string name="title_activity_draggable_music_knob">DraggableMusicKnobActivity</string>
     <string name="title_activity_meditation_uiactivity">MeditationUIActivity</string>
     <string name="title_activity_timer_compose">TimerComposeActivity</string>
+    <string name="title_activity_drop_down3_dactivity">DropDown3DActivity</string>
 </resources>
